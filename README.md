@@ -1,5 +1,5 @@
 # Ground-to-satellite-quantum-teleportation-
-A simple simulation of a ground-to-satellite quantum teleportation system.
+A simple simulation of a ground-to-satellite quantum teleportation system. Project code for UNSW TELE9757
 
 'testFidelity.m' is the main function, to run a single-shot teleportation, with adjustable noise and polarization distortin.
 
